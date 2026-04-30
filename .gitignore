@@ -1,0 +1,35 @@
+# macOS
+.DS_Store
+
+# R session artifacts
+.Rhistory
+.RData
+.Rdata
+.Ruserdata
+
+# RStudio / IDE
+.Rproj.user/
+*.Rproj.user/
+
+# renv
+renv/
+renv.lock
+
+# Local project library (created by scripts)
+.r_libs/
+
+# Heavy graphic outputs (keep source code, ignore generated renders)
+output/
+figures/
+plots/
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.bmp
+*.pdf
+*.svg
+*.webp
+*.html
+
